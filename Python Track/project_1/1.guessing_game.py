@@ -24,14 +24,18 @@ number and the player loses.
 ### Add some of yours here too. Also record what each prompt added to
 ### your program. 
 
-'''Add a scoring system. The fewer guesses the player uses, the more points 
+'''1. Add a scoring system. The fewer guesses the player uses, the more points 
 they should get'''
 
-'''Let the player continue playing as many times as they want without resetting
+'''2. Let the player continue playing as many times as they want without resetting
 their score.'''
 
-'''Add a rainbow colored title that displays before the game starts, and says
+'''3. Add a rainbow colored title that displays before the game starts, and says
 This is a guessing game!' Also tell the player the rules, and ask if they
 are ready to play. Then clear the terminal and start the game. '''
 
     # ADD YOUR PROMPTS HERE
+
+'''4. '''
+
+'''5. '''
