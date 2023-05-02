@@ -16,10 +16,18 @@ Branch endings should result in game overs or win.
 ### Add some of yours here too. Also record what each prompt added to
 ### your program. 
 
-'''What lines of code should I alter to change the story to one
+'''1. What lines of code should I alter to change the story to one
 that I wrote?'''
     
-'''Change the game so that the player is also able to go back to
+'''2. Change the game so that the player is also able to go back to
 the previous location.'''
 
-    # ADD YOUR PROMPTS HERE
+# ADD YOUR PROMPTS HERE
+
+'''3. '''
+
+'''4. '''
+
+'''5. '''
+
+    
